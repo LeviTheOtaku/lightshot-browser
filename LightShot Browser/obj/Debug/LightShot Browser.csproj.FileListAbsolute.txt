@@ -1,0 +1,10 @@
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\bin\Debug\LightShot Browser.exe.config
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\bin\Debug\LightShot Browser.exe
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\bin\Debug\LightShot Browser.pdb
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\obj\Debug\LightShot Browser.csproj.AssemblyReference.cache
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\obj\Debug\LightShot_Browser.Form1.resources
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\obj\Debug\LightShot_Browser.Properties.Resources.resources
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\obj\Debug\LightShot Browser.csproj.GenerateResource.cache
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\obj\Debug\LightShot Browser.csproj.CoreCompileInputs.cache
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\obj\Debug\LightShot Browser.exe
+D:\Levi\source\repos\LightShot Browser\LightShot Browser\obj\Debug\LightShot Browser.pdb
